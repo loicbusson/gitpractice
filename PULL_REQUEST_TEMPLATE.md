@@ -9,3 +9,5 @@ What is the acceptance criteria for the proposed solution?
 - [ ] Architecture changes approved:
 - [ ] Manual tests approved and test screenshots attached
 - [ ] Manual tests approved
+
+Random things
