@@ -30,3 +30,4 @@ class Compute:
         print(num_exponent)
 
 #I'm adding feature 1!
+#I'm adding feature 2!
